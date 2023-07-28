@@ -1,2 +1,2 @@
 # cses_solutions
-[Searching and Sorting](doc/Searching.md)
+[Searching and Sorting](/searching_sorting/Searching.md)
