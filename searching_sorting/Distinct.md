@@ -3,7 +3,7 @@ Sample Test Case : [1,6,2,1,2,3,5,4,5,6]
 ### 1. SORTING
 after sorting the array.
 arr : [1,1,2,2,3,4,5,5,6,6]
-Algo
+> Algo
 - sort the array
 - while looping the array
   - if previous elements and current element is not equal then increment count of a distinct variable. 
