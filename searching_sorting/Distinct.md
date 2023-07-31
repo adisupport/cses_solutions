@@ -1,13 +1,15 @@
 ## Number of Ways to Find Distinct Elements in the Array.
+Sample Test Case : [1,6,2,1,2,3,5,4,5,6]
 ### 1. SORTING
+after sorting the array.
+arr : [1,1,2,2,3,4,5,5,6,6]
 ```
-// Sort Array
   sort(arr.begin(),arr.end());
-//test case : [1,1,2,2,3,4,5,5,6,6]
   int distinct = 1;
   for(int i=1;i<n;i++)
     if(arr[i-1]!=arr[i])
       distinct++;
+  return distinct;
 ```
 ### 2. Using Data Structure.
 using Binary Search Tree
