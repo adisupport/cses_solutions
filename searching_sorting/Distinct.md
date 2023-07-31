@@ -23,6 +23,7 @@ for(int i:arr)
   elem.insert(i)
 return elem.size();
 ```
+### 3. Using Map Data Structure.
 >using Map, map stores <key, value> pairs. The key is elements and Value is the number of occurrences of elements.
 return the number of keys in map.
 
