@@ -16,7 +16,7 @@ arr : [1,1,2,2,3,4,5,5,6,6]
   return distinct;
 ```
 ### 2. Using Data Structure.
-using Binary Search Tree, Set stores only distinct elements.
+> using Binary Search Tree, Set stores only distinct elements.
 ```
 Set<int>elem;
 for(int i:arr)
@@ -24,7 +24,7 @@ for(int i:arr)
 return elem.size();
 ```
 ### 3. Using Map Data Structure.
->using Map, map stores <key, value> pairs. The key is elements and Value is the number of occurrences of elements.
+>Map stores <key, value> pairs. The key is elements and Value is the number of occurrences of elements.
 return the number of keys in map.
 
 ```
