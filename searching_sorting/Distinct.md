@@ -16,14 +16,16 @@ arr : [1,1,2,2,3,4,5,5,6,6]
   return distinct;
 ```
 ### 2. Using Data Structure.
-using Binary Search Tree
+using Binary Search Tree, Set stores only distinct elements.
 ```
 Set<int>elem;
 for(int i:arr)
   elem.insert(i)
 return elem.size();
 ```
-using Map
+>using Map, map stores <key, value> pairs. The key is elements and Value is the number of occurrences of elements.
+return the number of keys in map.
+
 ```
 unordered_map<int,int>mp;
 for(int i:arr)
