@@ -16,7 +16,7 @@ arr : [1,1,2,2,3,4,5,5,6,6]
   return distinct;
 ```
 ### 2. Using Data Structure.
-> using Binary Search Tree, Set stores only distinct elements.
+> Using Binary Search Tree, Set stores only distinct elements.
 ```
 Set<int>elem;
 for(int i:arr)
