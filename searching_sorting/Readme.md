@@ -7,7 +7,7 @@
 # Techinque
 |How To|Explanation|
 |:--:|--:|
-|How to find distinct elements in array|[Distinct](/solutions/Explanation/distinct.md)|
+|How to find distinct elements in array|[Distinct](solutions/Explanation/distinct.md)|
 
 # Solution of CSES Question Set.
 
