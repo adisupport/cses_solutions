@@ -13,5 +13,5 @@
 
 |Question|Explanation|Full Code|
 |:-------:|----:|-:|
-|[Find Distinct Element In The Array](https://cses.fi/problemset/task/1621)|[Solution](\solutions\Explanation\distinct.md)|[Code](solutions/Distinct.cpp)|
+|[Find Distinct Element In The Array](https://cses.fi/problemset/task/1621)|[Solution](solutions/Explanation/distinct.md)|[Code](\solutions\Distinct.cpp)|
 |[Appratment](https://cses.fi/problemset/task/1084)|[Solution](/solutions/appartment.md)|
